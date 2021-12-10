@@ -74,6 +74,8 @@ _Note: If you're logged into Google, you will see your images._
 
 8) Done! Now, you should see the script delete all your photos in the batch
 
+9) You can try to zoom out (View (in menu bar) -> Zoom Out) to fit more "photos" on the screen - this should increase how many photos can be deleted in a single batch
+
 # Debugging
 
 The script may not work as expected in case your internet speed is considerably slow. In that case, you may want to increase the `DELETE_DELAY_CYCLE` by few thousands of milliseconds. This is to ensure that the page has refreshed before the tool tries to delete the images again.
